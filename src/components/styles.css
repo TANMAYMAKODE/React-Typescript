@@ -78,7 +78,7 @@
 }
 
 @media (max-width: 1200px) {
-  .todos__single {
+  .todos_single {
     width: 40%;
   }
 }
@@ -90,7 +90,7 @@
   .todos {
     width: 95%;
   }
-  .todos__single {
+  .todos_single {
     width: 100%;
   }
 }
